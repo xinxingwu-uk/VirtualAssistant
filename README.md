@@ -21,7 +21,7 @@ Text Script
 → Audio (.wav)  
 → Ditto-TalkingHead (Audio + Image)  
 → Talking Image / Video  
-→ Lecture Slides (PPT / PDF / HTML)
+→ Lecture Slides (PPT / HTML)
 
 ---
 

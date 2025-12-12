@@ -73,17 +73,23 @@ Assignment four includes hourly logs and a journal entry.
 
 ### Step 2: Generate Audio with OpenVoice
 
-```
-python openvoice_infer.py --text scripts/lecture_text.txt --output audio/lecture.wav
-```
+By using,  https://github.com/xinxingwu-uk/VirtualAssistant/blob/main/TextToVoice.ipynb
 
 ---
 
 ### Step 3: Generate Talking Image with Ditto-TalkingHead
 
+
+```
+https://github.com/xinxingwu-uk/VirtualAssistant/blob/main/ImageSpeaking.ipynb
+```
+
+Or
+
 ```
 python inference.py --audio audio/lecture.wav --image images/avatar.jpg --output output/talking_avatar.mp4
 ```
+
 
 ---
 

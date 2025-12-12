@@ -2,11 +2,17 @@
 **OpenVoice + Ditto-TalkingHead Pipeline**
 
 This project demonstrates how to create **AI-generated talking images** for course slides by combining **OpenVoice** (speech generation) and **Ditto-TalkingHead** (audio-driven facial animation).  
-The final outputs are short speaking images or videos that can be embedded directly into **lecture slides** in class - <a href="https://xinxingwu-uk.github.io/projects/demo3/slides.html"
-   target="_blank"
-   rel="noopener noreferrer">
-  Demo
-</a>
+The final outputs are short speaking images or videos that can be embedded directly into **lecture slides** in class - <script>
+  function openDemo() {
+    window.open(
+      'https://xinxingwu-uk.github.io/projects/demo3/slides.html',
+      '_blank'
+    );
+  }
+</script>
+
+<button onclick="openDemo()">Demo</button>
+
 
 
 ---

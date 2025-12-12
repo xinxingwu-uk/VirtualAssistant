@@ -1,8 +1,8 @@
-# 🎤 Talking Slide Avatars for Class Lectures  
+# Talking Slide Avatars for Class Lectures  
 **OpenVoice + Ditto-TalkingHead Pipeline**
 
 This project demonstrates how to create **AI-generated talking images** for course slides by combining **OpenVoice** (speech generation) and **Ditto-TalkingHead** (audio-driven facial animation).  
-The final outputs are short speaking images or videos that can be embedded directly into **lecture slides**, like the example used in class.
+The final outputs are short speaking images or videos that can be embedded directly into **lecture slides** in class - [Demo](https://xinxingwu-uk.github.io/projects/demo3/slides.html)
 
 ---
 

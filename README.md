@@ -124,6 +124,7 @@ Insert the generated video into:
 This project is for **educational use**.  
 Please follow the licenses of OpenVoice and Ditto-TalkingHead.  
 Do not use real people’s images without permission.
+This project is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
 
 ---
 

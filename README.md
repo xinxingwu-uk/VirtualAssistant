@@ -98,7 +98,7 @@ python inference.py --audio audio/lecture.wav --image images/avatar.jpg --output
 Insert the generated video into:
 - PowerPoint
 - Google Slides
-- HTML course Slides/Pages [Demo](https://xinxingwu-uk.github.io/projects/demo3/slides.html)
+- HTML course Slides/Pages [Demo](https://xinxingwu-uk.github.io/projects/demo3_updated/slides.html)
 
 ---
 
